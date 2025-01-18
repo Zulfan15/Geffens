@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "825398148775",
+    "project_id": "geffens-60e8a",
+    "storage_bucket": "geffens-60e8a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825398148775:android:497dad318b70bf5a3ce582",
+        "android_client_info": {
+          "package_name": "com.example.geffens"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv0J3W6-0qF1GzDCWI0CquwS5E5J37skc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
