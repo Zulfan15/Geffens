@@ -14,7 +14,7 @@ class HomePage extends StatelessWidget {
             mainAxisSize: MainAxisSize.min,
             children: [
               Text(
-                'Geffen Eearthquake',
+                'Geffen Eerthquake',
                 style: TextStyle(
                   fontSize: 24,
                   fontWeight: FontWeight.bold,

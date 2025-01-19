@@ -92,6 +92,30 @@ class ProfileScreen extends StatelessWidget {
                           color: Colors.white, // Changed text color
                         ),
                       ),
+                      const SizedBox(height: 16), // Adjusted height
+                        Center(
+                        child: Image.asset(
+                          'assets/images/seno.png',
+                          width: 100,
+                          height: 100,
+                        ),
+                        ),
+                      const SizedBox(height: 16), // Adjusted height
+                      const Text(
+                        'Nama: Seno Aji Yudhantara',
+                        style: TextStyle(
+                          fontSize: 18, // Adjusted font size
+                          color: Colors.white, // Changed text color
+                        ),
+                      ),
+                      const SizedBox(height: 16), // Adjusted height
+                      const Text(
+                        'NRP: 152022065',
+                        style: TextStyle(
+                          fontSize: 18, // Adjusted font size
+                          color: Colors.white, // Changed text color
+                        ),
+                      ),
                     ],
                   ),
                 ),
